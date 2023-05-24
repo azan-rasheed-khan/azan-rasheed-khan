@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, hope you're good.</h1>
+<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, hope you're good.</h1>
 
 
 <p>Welcome to my GitHub profile! </br> I'm Azan Rasheed Khan, Software Engineer from <img src="https://image.flaticon.com/icons/svg/197/197606.svg" width="13"/> <b>Karachi, Pakistan</b>.</p>
@@ -63,7 +63,7 @@
 </a>
 
 <hr />
-<a href="https://www.buymeacoffee.com/mudassir089" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a>
+<a href="https://www.buymeacoffee.com/mudassir089" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a> -->
 
 <!--
 **AzaanKhan271/AzaanKhan271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
