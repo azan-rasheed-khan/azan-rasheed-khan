@@ -7,7 +7,6 @@
 
 <p>
     <a href="https://www.facebook.com/azan.rasheedkhan.3/"><img alt="Facebook" src="https://img.shields.io/badge/-Be my friend-1877F2?style=social&logo=facebook" /></a>
-    <a href="https://twitter.com/Mudassir78992"><img alt="Twitter" src="https://img.shields.io/badge/-Tag me-1DA1F2?style=social&logo=twitter" /></a>
     <a href="https://www.linkedin.com/in/azaan-khan-551a121b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Follow Me-0077B5?style=social&logo=linkedin" /></a>
     <a href="https://www.fiverr.com/azaankhan271?up_rollout=true" src="https://img.shields.io/badge/-fiverr-12100E?style=social&logo=fiverr&logoColor=1DBF73" />
 </a>
