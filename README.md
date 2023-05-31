@@ -22,7 +22,7 @@
     <table border="0">
         <tr>
             <td>
-                <a href="https://stackoverflow.com/users/16229307/azaan-khan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17505374&theme=dark" /></a>
+                <a href="https://stackoverflow.com/users/16229307/azaan-khan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16229307&theme=light" /></a>
             </td>
             <td>
                 <a href="https://github.com/AzaanKhan271"><img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=AzaanKhan271&count_private=true&theme=radical&include_all_commits=true"/></a>
