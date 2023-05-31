@@ -1,19 +1,18 @@
-<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, hope you're good.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, hope you're good.</h1>
 
 
 <p>Welcome to my GitHub profile! </br> I'm Azan Rasheed Khan, Software Engineer from <img src="https://image.flaticon.com/icons/svg/197/197606.svg" width="13"/> <b>Karachi, Pakistan</b>.</p>
-<p>A passionate Software Engineer :rocket: having an experience of building Web and Mobile applications with JavaScript / ReactJS / NodeJS / MongoDB / ExpressJS / React Native and some other cool libraries and frameworks. 😊</p>
+<p>I'm a software engineer specializing in building exceptional digital experiences . Currently, I'm focused on building accessible, human-centered products at Tellotalk. 😊</p>
 
 
 <p>
-    <a href="https://www.facebook.com/profile.php?id=100006000518667"><img alt="Facebook" src="https://img.shields.io/badge/-Be my friend-1877F2?style=social&logo=facebook" /></a>
+    <a href="https://www.facebook.com/azan.rasheedkhan.3/"><img alt="Facebook" src="https://img.shields.io/badge/-Be my friend-1877F2?style=social&logo=facebook" /></a>
     <a href="https://twitter.com/Mudassir78992"><img alt="Twitter" src="https://img.shields.io/badge/-Tag me-1DA1F2?style=social&logo=twitter" /></a>
-    <a href="https://www.linkedin.com/in/muhammad-mudassir-1b1992201/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Follow Me-0077B5?style=social&logo=linkedin" /></a>
-    <a href="https://www.instagram.com/mudassir11110/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/-Don't forget to like 😅-E4405F?style=social&logo=instagram" /></a>
-    <a href="https://www.fiverr.com/mudassir0900?up_rollout=true" src="https://img.shields.io/badge/-fiverr-12100E?style=social&logo=fiverr&logoColor=1DBF73" />
+    <a href="https://www.linkedin.com/in/azaan-khan-551a121b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Follow Me-0077B5?style=social&logo=linkedin" /></a>
+    <a href="https://www.fiverr.com/azaankhan271?up_rollout=true" src="https://img.shields.io/badge/-fiverr-12100E?style=social&logo=fiverr&logoColor=1DBF73" />
 </a>
     <div>
-        <a href="https://github.com/mudassir089">
+        <a href="https://github.com/AzaanKhan271">
             <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         </a>
     </div>
@@ -23,7 +22,7 @@
     <table border="0">
         <tr>
             <td>
-                <a href="https://stackoverflow.com/users/17505374/muhammad-mudassir"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17505374&theme=dark" /></a>
+                <a href="https://stackoverflow.com/users/16229307/azaan-khan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17505374&theme=dark" /></a>
             </td>
             <td>
                 <a href="https://github.com/AzaanKhan271"><img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=AzaanKhan271&count_private=true&theme=radical&include_all_commits=true"/></a>
@@ -33,7 +32,7 @@
 </div>
 
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="30"/></h3>
-<a href="https://www.github.com/mudasir089">
+<a href="https://github.com/AzaanKhan271">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> 
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -63,7 +62,7 @@
 </a>
 
 <hr />
-<a href="https://www.buymeacoffee.com/mudassir089" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a> -->
+<a href="https://www.buymeacoffee.com/azaankhan271" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a>
 
 <!--
 **AzaanKhan271/AzaanKhan271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
