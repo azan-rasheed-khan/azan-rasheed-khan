@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, hope you're good.</h1>
 
 
-<p>Welcome to my GitHub profile! </br> I'm Azan Rasheed Khan, Software Engineer from <img src="https://image.flaticon.com/icons/svg/197/197606.svg" width="13"/> <b>Karachi, Pakistan</b>.</p>
+<p>Welcome to my GitHub profile! </br> I'm Azan Rasheed Khan, Software Engineer from  <b>Karachi, Pakistan</b>.</p>
 <p>I'm a software engineer specializing in building exceptional digital experiences . Currently, I'm focused on building accessible, human-centered products at Tellotalk. 😊</p>
 
 
@@ -22,7 +22,7 @@
     <table border="0">
         <tr>
             <td>
-                <a href="https://stackoverflow.com/users/16229307/azaan-khan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16229307&theme=light" /></a>
+                <a href="https://stackoverflow.com/users/16229307/azaan-khan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16229307&theme=dark" /></a>
             </td>
             <td>
                 <a href="https://github.com/AzaanKhan271"><img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=AzaanKhan271&count_private=true&theme=radical&include_all_commits=true"/></a>
@@ -59,6 +59,9 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    
 </a>
 
 <hr />
