@@ -8,14 +8,13 @@
   </h1>
   
   <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/azan-rasheed-khan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.fiverr.com/azaankhan271?up_rollout=true" title="Fiverr Profile"><img width="22" src="images/fiverr.png"> Fiverr</a></code>
+    <a href="https://www.linkedin.com/in/azan-rasheed-khan/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/Azan Rasheed Khan%20-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/azan-rasheed-khan/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/Azan Rasheed Khan%20-%231DA1F2.svg?&style=for-the-badge&logo=Fiverr&logoColor=green"/></a>
     <!-- Add more -->
   </h5>
   <br>
   <p align="center">
     Hi, I'm Azan Khan, Software Engineer from Karachi, Pakistan.
-    <br>
     <br>
     💼 I'm currently focused on building accessible, human-centered products at Tellotalk.
     <br>
@@ -23,14 +22,14 @@
     <br>
     💻 I'm passionate about coding and always eager to learn new technologies.
     <br>
-    📚 I’m currently exploring new horizons in web development with Django.
+    📚 I’m currently exploring new horizons in web development with React
     <br>
     💬 Ask me anything or share your thoughts with me <a href="https://github.com/AzaanKhan271/AzaanKhan271/issues" title="Issues">Here</a>.
     <br>
-    📫 Feel free to reach me at <a href="mailto: your-email@example.com">your-email@example.com</a>.
+    📫 Feel free to reach me at <a href="mailto:azaankhan271@gmail.com">azaankhan271@gmail.com</a>.
   </p>
   
-  <hr>
+  <br>
   
   <h2 align="center">🔥 Technologies & Tools 🔥</h2>
   <br>
@@ -68,7 +67,7 @@
 </a>
     <!-- Add more -->
   </p>
-  <hr>
+  <br>
   
   <h2 align="center">⚡ Stats ⚡</h2>
   <br>
@@ -92,6 +91,7 @@
   </p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzaanKhan271&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
   
-  <hr>
+  <br>
+  <br>
 <a href="https://www.buymeacoffee.com/azaankhan271" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a>
 </div>
