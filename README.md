@@ -93,16 +93,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzaanKhan271&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
   
   <hr>
-  
-  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-  <br>
-  <div width="100%" align="center">
-    <a align="left" href="https://github.com/AzaanKhan271/alkaram-react-native" title="Alkaram React Nativ"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AzaanKhan271&repo=alkaram-react-native&theme=react&border_color=61dafb&border_radius=10"></a>
-    <!-- Add more -->
-  </div>
-  <br/><br/><br/><br/><br/><br/>
-  
-  <h4 align="center">
-    <a href="https://github.com/AzaanKhan271?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-  </h4>
+<a href="https://www.buymeacoffee.com/azaankhan271" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" /></a>
 </div>
