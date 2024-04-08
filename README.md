@@ -8,8 +8,9 @@
   </h1>
   
   <h5 align="center">
-    <a href="https://www.linkedin.com/in/azan-rasheed-khan/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/Azan Rasheed Khan%20-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://www.fiverr.com/azaankhan271?up_rollout=true" title="Fiverr Profile"><img src="https://img.shields.io/badge/Azan Rasheed Khan%20-%231DA1F2.svg?&style=for-the-badge&logo=Fiverr&logoColor=green"/></a>
+    <a href="https://www.linkedin.com/in/azan-rasheed-khan/" title="LinkedIn Profile"><img src="./assets/icons8-linkedin-48.png"/></a>
+    <a href="https://www.fiverr.com/azaankhan271?up_rollout=true" title="Fiverr Profile"><img src="./assets/icons8-fiverr.svg"/></a>
+    <a href="https://stackoverflow.com/users/16229307/azaan-khan" title="Stack Overflow Profile"><img src="./assets/icons8-stack-overflow.svg"/></a>
     <!-- Add more -->
   </h5>
   <br>
