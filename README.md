@@ -15,7 +15,7 @@
   </h5>
   <br>
   <p align="center">
-    Hi, I'm Azan Khan, Software Engineer from Karachi, Pakistan.
+    Hi, I'm Azan Rasheed Khan, Software Engineer from Karachi, Pakistan.
     <br>
     💼 I'm currently focused on building accessible, human-centered products at Tellotalk.
     <br>
